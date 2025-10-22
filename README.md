@@ -1,5 +1,5 @@
 # [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟩 All systems operational**
-
+<br>
 [![Uptime CI](https://github.com/stryv-nl/upptime-stryv.nl/workflows/Uptime%20CI/badge.svg)](https://github.com/stryv-nl/upptime-stryv.nl/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/stryv-nl/upptime-stryv.nl/workflows/Response%20Time%20CI/badge.svg)](https://github.com/stryv-nl/upptime-stryv.nl/actions?query=workflow%3A%22Response+Time+CI%22)
 [![Graphs CI](https://github.com/stryv-nl/upptime-stryv.nl/workflows/Graphs%20CI/badge.svg)](https://github.com/stryv-nl/upptime-stryv.nl/actions?query=workflow%3A%22Graphs+CI%22)
