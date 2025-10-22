@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lite-speed-server",
     "status": "up",
-    "uptime": "4.28%",
-    "uptimeDay": "4.28%",
-    "uptimeWeek": "4.28%",
-    "uptimeMonth": "4.28%",
-    "uptimeYear": "4.28%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 227,
     "timeDay": 227,
     "timeWeek": 227,
     "timeMonth": 227,
     "timeYear": 227,
-    "dailyMinutesDown": {
-      "2025-10-22": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "IMAP Server",
