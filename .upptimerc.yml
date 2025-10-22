@@ -45,3 +45,65 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+i18n:
+activeIncidents: Actieve incidenten
+allSystemsOperational: Alle systemen functioneren normaal
+incidentReport: "Incident #$NUMBER rapport →"
+activeIncidentSummary: Geopend op $DATE met $POSTS reacties
+incidentTitle: Incident $NUMBER details
+incidentDetails: Incidentdetails
+incidentFixed: Opgelost
+incidentOngoing: Lopend
+incidentOpenedAt: Geopend op
+incidentClosedAt: Gesloten op
+incidentViewOnGitHub: Bekijk en abonneer op GitHub
+incidentCommentSummary: Geplaatst op $DATE door $AUTHOR
+incidentBack: ← Terug naar alle incidenten
+pastIncidents: Vorige incidenten
+pastIncidentsResolved: Opgelost in $MINUTES minuten met $POSTS reacties
+liveStatus: Live status
+overallUptime: "Totale uptime: $UPTIME"
+overallUptimeTitle: Totale uptime
+averageResponseTime: "Gemiddelde responstijd: $TIMEms"
+averageResponseTimeTitle: Gemiddelde responstijd
+sevelDayResponseTime: Responstijd over 7 dagen
+responseTimeMs: Responstijd (ms)
+up: Online
+down: Offline
+degraded: Gedegradeerde prestaties
+ms: ms
+loading: Laden
+navGitHub: GitHub
+footer: Deze pagina is [open source]($REPO) en wordt aangedreven door [Upptime](https://upptime.js.org)
+rateLimitExceededTitle: Verzoeklimiet overschreden
+rateLimitExceededIntro: Je hebt het maximale aantal toegestane verzoeken per uur overschreden. Wacht even voordat je deze website opnieuw probeert te laden. Je kunt ook een GitHub Personal Access Token toevoegen om verder te gaan.
+rateLimitExceededWhatDoesErrorMean: Wat betekent deze foutmelding?
+rateLimitExceededErrorMeaning: Deze website gebruikt de GitHub-API om realtime gegevens over onze websites te tonen. GitHub staat standaard 60 verzoeken per uur toe per IP-adres, en die limiet heb je bereikt.
+rateLimitExceededErrorHowCanFix: Hoe los ik dit op?
+rateLimitExceededErrorFix: Wacht een uur zodat de limiet wordt gereset, of voeg je eigen GitHub Personal Access Token toe om 5.000 verzoeken per uur te krijgen.
+rateLimitExceededGeneratePAT: Lees hoe je een Personal Access Token aanmaakt
+rateLimitExceededHasSet: Je hebt al een Personal Access Token ingesteld.
+rateLimitExceededRemoveToken: Token verwijderen
+rateLimitExceededGitHubPAT: GitHub Personal Access Token
+rateLimitExceededCopyPastePAT: Kopieer en plak je token
+rateLimitExceededSaveToken: Token opslaan
+errorTitle: Er is een fout opgetreden
+errorIntro: Er is een fout opgetreden bij het ophalen van de meest recente statusinformatie.
+errorText: Probeer het over een paar minuten opnieuw.
+errorHome: Ga naar de startpagina
+pastScheduledMaintenance: Afgeronde onderhoudsperiodes
+scheduledMaintenance: Gepland onderhoud
+scheduledMaintenanceSummaryStarted: Gestart op $DATE voor $DURATION minuten
+scheduledMaintenanceSummaryStarts: Start op $DATE en duurt $DURATION minuten
+startedAt: Gestart op
+startsAt: Start op
+duration: Duur
+durationMin: $DURATION minuten
+incidentCompleted: Voltooid
+incidentScheduled: Gepland
+duration24H: 24u
+duration7D: 7d
+duration30D: 30d
+duration1Y: 1j
+durationAll: alles
+locale: nl-NL
