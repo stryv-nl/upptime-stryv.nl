@@ -3,13 +3,13 @@ owner: stryv-nl # Your GitHub organization or username, where this repository li
 repo: upptime-stryv.nl # The name of this repository
 
 sites:
-  - name: Site
+  - name: stryv.nl
     url: www.stryv.nl
     type: globalping
     location: Eindhoven
   - name: LiteSpeed Server
     url: www.stryv.nl/health-litespeed.php
-    __dangerous__body_down_if_text_missing: '"OK"'
+    __dangerous__body_down_if_text_missing: 'OK'
     type: globalping
     location: Eindhoven
   - name: IMAP Server # Fastmail
