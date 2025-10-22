@@ -1,4 +1,6 @@
-# [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **Alle systemen functioneren normaal**
+# [![STRYV](https://www.stryv.nl/STRYV-plugin-logo-light.png)](https://www.stryv.nl)
+
+## [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **Alle systemen functioneren normaal**
 
 <br/>
 
