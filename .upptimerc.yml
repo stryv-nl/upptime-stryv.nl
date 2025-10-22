@@ -106,7 +106,6 @@ i18n:
   duration1Y: 1j
   durationAll: alles
   locale: nl-NL
-  # README.md vertaling
   url: "URL"
   status: "Status"
   history: "Geschiedenis"
