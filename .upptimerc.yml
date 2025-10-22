@@ -18,7 +18,7 @@ status-website:
   introMessage: 
   navbar:
     - title: Status
-      href: /
+      href: /upptime-stryv.nl
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
