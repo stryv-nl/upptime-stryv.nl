@@ -112,7 +112,6 @@ i18n:
   responseTime: "Responstijd"
   uptime: "Uptime"
   responseTimeGraphAlt: "Responstijdgrafiek"
-  responseTime: "Responstijd"
   responseTimeDay: "Responstijd (24 uur)"
   responseTimeWeek: "Responstijd (7 dagen)"
   responseTimeMonth: "Responstijd (30 dagen)"
