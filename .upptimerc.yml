@@ -110,7 +110,6 @@ i18n:
   status: "Status"
   history: "Geschiedenis"
   responseTime: "Responstijd"
-  uptime: "Uptime"
   responseTimeGraphAlt: "Responstijdgrafiek"
   responseTimeDay: "Responstijd (24 uur)"
   responseTimeWeek: "Responstijd (7 dagen)"
