@@ -120,7 +120,6 @@ i18n:
   uptimeWeek: "Uptime (7 dagen)"
   uptimeMonth: "Uptime (30 dagen)"
   uptimeYear: "Uptime (1 jaar)"
-  liveStatus: "Live status"
   liveStatusHtmlComment: "<!--live status-->"
   degradedPerformance: "🟨 Verminderde prestaties"
   completeOutage: "🟥 Volledige storing"
