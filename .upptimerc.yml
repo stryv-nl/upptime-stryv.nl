@@ -5,7 +5,9 @@ repo: upptime-stryv.nl # The name of this repository
 sites:
   - name: stryv.nl
     url: www.stryv.nl
+    port: 443
     type: globalping
+    check: tcp-ping
     location: Eindhoven
   - name: LiteSpeed Server
     url: www.stryv.nl/health-litespeed.php
