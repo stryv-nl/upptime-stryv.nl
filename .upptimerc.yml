@@ -106,6 +106,33 @@ i18n:
   duration1Y: 1j
   durationAll: alles
   locale: nl-NL
+  # README.md vertaling
+  url: "URL"
+  status: "Status"
+  history: "Geschiedenis"
+  responseTime: "Responstijd"
+  uptime: "Uptime"
+  up: "🟩 Online"
+  degraded: "🟨 Verminderde prestaties"
+  down: "🟥 Offline"
+  responseTimeGraphAlt: "Responstijdgrafiek"
+  ms: "ms"
+  responseTime: "Responstijd"
+  responseTimeDay: "Responstijd (24 uur)"
+  responseTimeWeek: "Responstijd (7 dagen)"
+  responseTimeMonth: "Responstijd (30 dagen)"
+  responseTimeYear: "Responstijd (1 jaar)"
+  uptime: "Totale uptime"
+  uptimeDay: "Uptime (24 uur)"
+  uptimeWeek: "Uptime (7 dagen)"
+  uptimeMonth: "Uptime (30 dagen)"
+  uptimeYear: "Uptime (1 jaar)"
+  liveStatus: "Live status"
+  liveStatusHtmlComment: "<!--live status-->"
+  allSystemsOperational: "🟩 Alle systemen operationeel"
+  degradedPerformance: "🟨 Verminderde prestaties"
+  completeOutage: "🟥 Volledige storing"
+  partialOutage: "🟧 Gedeeltelijke storing"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
