@@ -69,7 +69,7 @@ i18n:
   responseTimeMs: Responstijd (ms)
   up: Online
   down: Offline
-  degraded: Gedegradeerde prestaties  
+  degraded: Verminderde prestaties  
   ms: ms
   loading: Laden
   navGitHub: GitHub
@@ -111,11 +111,7 @@ i18n:
   history: "Geschiedenis"
   responseTime: "Responstijd"
   uptime: "Uptime"
-  up: "🟩 Online"
-  degraded: "🟨 Verminderde prestaties"
-  down: "🟥 Offline"
   responseTimeGraphAlt: "Responstijdgrafiek"
-  ms: "ms"
   responseTime: "Responstijd"
   responseTimeDay: "Responstijd (24 uur)"
   responseTimeWeek: "Responstijd (7 dagen)"
@@ -128,7 +124,6 @@ i18n:
   uptimeYear: "Uptime (1 jaar)"
   liveStatus: "Live status"
   liveStatusHtmlComment: "<!--live status-->"
-  allSystemsOperational: "🟩 Alle systemen operationeel"
   degradedPerformance: "🟨 Verminderde prestaties"
   completeOutage: "🟥 Volledige storing"
   partialOutage: "🟧 Gedeeltelijke storing"
