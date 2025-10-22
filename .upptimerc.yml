@@ -38,10 +38,10 @@ status-website:
   introTitle: Uptime monitor en status pagina
   introMessage: Overzicht van uptime en vermelding van incidenten.
   navbar:
-    - title: Website
-      href: https://www.stryv.nl
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: STRYV
+      href: https://www.stryv.nl
 
 
 i18n:
