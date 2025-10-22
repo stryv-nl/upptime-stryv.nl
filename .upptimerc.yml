@@ -34,9 +34,9 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime-stryv.nl
   logoUrl: https://www.stryv.nl/stryv-s.png
-  name: Status STRYV
-  introTitle: Uptime monitor and status page
-  introMessage: 
+  name: Status by STRYV
+  introTitle: Uptime monitor en status pagina
+  introMessage: Overzicht van uptime en vermelding van incidenten.
   navbar:
     - title: Website
       href: https://www.stryv.nl
