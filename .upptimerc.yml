@@ -8,6 +8,11 @@ sites:
     type: globalping
     check: tcp-ping
     location: Eindhoven
+  - name: Web Server
+    url: www.stryv.nl:2083
+    type: globalping
+    check: tcp-ping
+    location: Eindhoven
   - name: IMAP Server # Fastmail
     url: imap.fastmail.com
     port: 993
