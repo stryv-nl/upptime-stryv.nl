@@ -1,6 +1,11 @@
-# [![STRYV](https://www.stryv.nl/github-logo-text.png)](https://www.stryv.nl)
+# Welcome to StackEdit!
 
-## [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **Alle systemen functioneren normaal**
+Deze repository houdt automatisch de **online status en prestaties van de websites, servers en diensten onder www.stryv.nl** bij.  
+Met behulp van [Upptime](https://upptime.js.org) worden alle uptime-metingen, responstijden en incidentmeldingen volledig **open source** vastgelegd en weergegeven op onze publieke statuspagina.
+
+De metingen worden elke paar minuten uitgevoerd via GitHub Actions en de resultaten zijn publiek inzichtelijk — transparant, betrouwbaar en privacy-vriendelijk.
+
+## [📈 Live Status](https://stryv-nl.github.io/upptime-stryv.nl): <!--live status--> **Alle systemen functioneren normaal**
 
 <br/>
 
@@ -24,3 +29,11 @@
 | <img alt="" src="https://icons.duckduckgo.com/ip3/null.ico" height="13"> [SMTP Server](smtp.fastmail.com) | Online | [smtp-server.yml](https://github.com/stryv-nl/upptime-stryv.nl/commits/HEAD/history/smtp-server.yml) | <details><summary><img alt="Responstijdgrafiek" src="./graphs/smtp-server/response-time-week.png" height="20"> 90ms</summary><br><a href="https://stryv-nl.github.io/upptime-stryv.nl/history/smtp-server"><img alt="Responstijd 90" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fstryv-nl%2Fupptime-stryv.nl%2FHEAD%2Fapi%2Fsmtp-server%2Fresponse-time.json"></a><br><a href="https://stryv-nl.github.io/upptime-stryv.nl/history/smtp-server"><img alt="Responstijd (24 uur) 90" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fstryv-nl%2Fupptime-stryv.nl%2FHEAD%2Fapi%2Fsmtp-server%2Fresponse-time-day.json"></a><br><a href="https://stryv-nl.github.io/upptime-stryv.nl/history/smtp-server"><img alt="Responstijd (7 dagen) 90" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fstryv-nl%2Fupptime-stryv.nl%2FHEAD%2Fapi%2Fsmtp-server%2Fresponse-time-week.json"></a><br><a href="https://stryv-nl.github.io/upptime-stryv.nl/history/smtp-server"><img alt="Responstijd (30 dagen) 90" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fstryv-nl%2Fupptime-stryv.nl%2FHEAD%2Fapi%2Fsmtp-server%2Fresponse-time-month.json"></a><br><a href="https://stryv-nl.github.io/upptime-stryv.nl/history/smtp-server"><img alt="Responstijd (1 jaar) 90" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fstryv-nl%2Fupptime-stryv.nl%2FHEAD%2Fapi%2Fsmtp-server%2Fresponse-time-year.json"></a></details> | <details><summary><a href="https://stryv-nl.github.io/upptime-stryv.nl/history/smtp-server">100.00%</a></summary><a href="https://stryv-nl.github.io/upptime-stryv.nl/history/smtp-server"><img alt="Totale uptime 100.00%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fstryv-nl%2Fupptime-stryv.nl%2FHEAD%2Fapi%2Fsmtp-server%2Fuptime.json"></a><br><a href="https://stryv-nl.github.io/upptime-stryv.nl/history/smtp-server"><img alt="Uptime (24 uur) 100.00%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fstryv-nl%2Fupptime-stryv.nl%2FHEAD%2Fapi%2Fsmtp-server%2Fuptime-day.json"></a><br><a href="https://stryv-nl.github.io/upptime-stryv.nl/history/smtp-server"><img alt="Uptime (7 dagen) 100.00%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fstryv-nl%2Fupptime-stryv.nl%2FHEAD%2Fapi%2Fsmtp-server%2Fuptime-week.json"></a><br><a href="https://stryv-nl.github.io/upptime-stryv.nl/history/smtp-server"><img alt="Uptime (30 dagen) 100.00%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fstryv-nl%2Fupptime-stryv.nl%2FHEAD%2Fapi%2Fsmtp-server%2Fuptime-month.json"></a><br><a href="https://stryv-nl.github.io/upptime-stryv.nl/history/smtp-server"><img alt="Uptime (1 jaar) 100.00%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fstryv-nl%2Fupptime-stryv.nl%2FHEAD%2Fapi%2Fsmtp-server%2Fuptime-year.json"></a></details>
 
 <!--end: status pages-->
+
+<br/>
+
+## 📄 Licentie
+- De broncode van dit project valt onder de [MIT-licentie](./LICENSE) © [Anand Chowdhary](https://anandchowdhary.com),  
+met ondersteuning van [Pabio](https://pabio.com).
+- De gegevens in de map [`./history`](./history) zijn beschikbaar onder de  
+[Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/1-0/).
