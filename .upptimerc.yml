@@ -31,7 +31,7 @@ sites:
     check: tcp-ping
     location: Eindhoven
   - name: TEST Server
-    url: www.stryvvv.nl
+    url: www.stryvvcv.nl
 
 
 
