@@ -44,7 +44,7 @@ Heb je vragen over deze statuspagina of ondervind je problemen met één van onz
 Ons team helpt je graag verder.
 
 📧 **E-mail:** [happier@stryv.nl](mailto:happier@stryv.nl)  
-🟩 **WhatsApp:** [0495 – 234 444](https://wa.me/31495234444)
+🟩 **WhatsApp:** [0495 – 234 444](https://wa.me/31495234444)  
 📞 **Telefoon:** 0495 – 234 444  
 
 <br/>
