@@ -46,7 +46,7 @@ status-website:
 
 i18n:
   activeIncidents: Actieve incidenten
-  allSystemsOperational: Alle systemen functioneren normaal
+  allSystemsOperational: 🟢 Geen incidenten
   incidentReport: "Incident #$NUMBER rapport →"
   activeIncidentSummary: Geopend op $DATE met $POSTS reacties
   incidentTitle: Incident $NUMBER details
@@ -67,9 +67,9 @@ i18n:
   averageResponseTimeTitle: Gemiddelde responstijd
   sevelDayResponseTime: Responstijd over 7 dagen
   responseTimeMs: Responstijd (ms)
-  up: Online
-  down: Offline
-  degraded: Verminderde prestaties  
+  up: 🟢 Online
+  down: 🔴 Offline
+  degraded: 🟡 Verminderde prestaties  
   ms: ms
   loading: Laden
   navGitHub: GitHub
@@ -121,9 +121,9 @@ i18n:
   uptimeMonth: "Uptime (30 dagen)"
   uptimeYear: "Uptime (1 jaar)"
   liveStatusHtmlComment: "<!--live status-->"
-  degradedPerformance: "🟨 Verminderde prestaties"
-  completeOutage: "🟥 Volledige storing"
-  partialOutage: "🟧 Gedeeltelijke storing"
+  degradedPerformance: "🟡 Verminderde prestaties"
+  completeOutage: "🔴 Volledige storing"
+  partialOutage: "🟠 Gedeeltelijke storing"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
