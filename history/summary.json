@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 218,
-    "timeDay": 218,
+    "timeDay": 217,
     "timeWeek": 218,
     "timeMonth": 218,
     "timeYear": 218,
@@ -73,22 +73,22 @@
   },
   {
     "name": "TEST Server",
-    "url": "www.stryyyv.nl",
+    "url": "www.stryydyv.nl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "test-server",
-    "status": "up",
-    "uptime": "5.25%",
-    "uptimeDay": "5.25%",
-    "uptimeWeek": "5.25%",
-    "uptimeMonth": "5.25%",
-    "uptimeYear": "5.25%",
+    "status": "down",
+    "uptime": "4.97%",
+    "uptimeDay": "4.97%",
+    "uptimeWeek": "4.97%",
+    "uptimeMonth": "4.97%",
+    "uptimeYear": "4.97%",
     "time": 1497,
     "timeDay": 1497,
     "timeWeek": 1497,
     "timeMonth": 1497,
     "timeYear": 1497,
     "dailyMinutesDown": {
-      "2025-10-23": 425
+      "2025-10-23": 427
     }
   }
 ]
