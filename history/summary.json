@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 218,
-    "timeDay": 217,
-    "timeWeek": 218,
-    "timeMonth": 218,
-    "timeYear": 218,
+    "time": 217,
+    "timeDay": 216,
+    "timeWeek": 217,
+    "timeMonth": 217,
+    "timeYear": 217,
     "dailyMinutesDown": {}
   },
   {
@@ -47,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 87,
-    "timeDay": 87,
+    "timeDay": 86,
     "timeWeek": 87,
     "timeMonth": 87,
     "timeYear": 87,
@@ -73,22 +73,22 @@
   },
   {
     "name": "TEST Server",
-    "url": "www.stryydyv.nl",
+    "url": "www.stryv.nl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "test-server",
-    "status": "down",
-    "uptime": "4.97%",
-    "uptimeDay": "4.97%",
-    "uptimeWeek": "4.97%",
-    "uptimeMonth": "4.97%",
-    "uptimeYear": "4.97%",
-    "time": 1497,
-    "timeDay": 1497,
-    "timeWeek": 1497,
-    "timeMonth": 1497,
-    "timeYear": 1497,
+    "status": "up",
+    "uptime": "4.54%",
+    "uptimeDay": "4.54%",
+    "uptimeWeek": "4.54%",
+    "uptimeMonth": "4.54%",
+    "uptimeYear": "4.54%",
+    "time": 1430,
+    "timeDay": 1430,
+    "timeWeek": 1430,
+    "timeMonth": 1430,
+    "timeYear": 1430,
     "dailyMinutesDown": {
-      "2025-10-23": 427
+      "2025-10-23": 431
     }
   }
 ]
