@@ -134,7 +134,7 @@ i18n:
 
 notifications:
   slack:
-    webhookUrl: ${{ secrets.SLACK_WEBHOOK_URL }}
+    webhookUrl: ${{ secrets.NOTIFICATION_SLACK_WEBHOOK_URL }}
     channel: "#upptime-monitor"
 
 # Upptime also supports notifications, assigning issues, and more
