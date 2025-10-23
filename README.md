@@ -43,11 +43,9 @@ De metingen worden elke paar minuten uitgevoerd via GitHub Actions en de resulta
 Heb je vragen over deze statuspagina of ondervind je problemen met één van onze diensten?  
 Ons team helpt je graag verder.
 
-<br/>
-
 📧 **E-mail:** [happier@stryv.nl](mailto:happier@stryv.nl)  
+🟩 **WhatsApp:** [0495 – 234 444](https://wa.me/31495234444)
 📞 **Telefoon:** 0495 – 234 444  
-💬 **WhatsApp:** [0495 – 234 444](https://wa.me/31495234444)
 
 <br/>
 
