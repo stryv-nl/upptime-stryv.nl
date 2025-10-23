@@ -36,6 +36,21 @@ De metingen worden elke paar minuten uitgevoerd via GitHub Actions en de resulta
 
 <br/>
 
+## 💬 Contact & Support
+
+<br/>
+
+Heb je vragen over deze statuspagina of ondervind je problemen met één van onze diensten?  
+Ons team helpt je graag verder.
+
+<br/>
+
+📧 **E-mail:** [happier@stryv.nl](mailto:happier@stryv.nl)  
+📞 **Telefoon:** 0495 – 234 444  
+💬 **WhatsApp:** [0495 – 234 444](https://wa.me/31495234444)
+
+<br/>
+
 ## 📄 Licentie
 - De broncode van dit project valt onder de [MIT-licentie](./LICENSE) © [Anand Chowdhary](https://anandchowdhary.com),  
 met ondersteuning van [Pabio](https://pabio.com).
