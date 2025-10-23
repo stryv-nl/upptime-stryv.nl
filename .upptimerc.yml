@@ -5,6 +5,7 @@ repo: upptime-stryv.nl # The name of this repository
 sites:
   - name: stryv.nl
     url: www.stryv.nl
+    icon: https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.stryv.nl&size=32
     port: 443
     type: globalping
     check: tcp-ping
