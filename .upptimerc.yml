@@ -30,8 +30,8 @@ sites:
     type: globalping
     check: tcp-ping
     location: Eindhoven
-  - name: SMTTP Server # Fastmail
-    url: smttp.fa.xcy
+  - name: SSMTTP Server # Fastmail
+    url: ssmttp.fa.xcy
 
 
 
