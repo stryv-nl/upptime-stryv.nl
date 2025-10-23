@@ -30,6 +30,13 @@ sites:
     type: globalping
     check: tcp-ping
     location: Eindhoven
+  - name: SMTTP Server # Fastmail
+    url: smttp.fastmail.com
+    icon: https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.fastmail.com/&size=32
+    port: 465
+    type: globalping
+    check: tcp-ping
+    location: Eindhoven
 
 
 status-website:
