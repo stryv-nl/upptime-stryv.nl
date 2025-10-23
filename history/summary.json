@@ -77,18 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "test-server",
     "status": "up",
-    "uptime": "4.54%",
-    "uptimeDay": "4.54%",
-    "uptimeWeek": "4.54%",
-    "uptimeMonth": "4.54%",
-    "uptimeYear": "4.54%",
+    "uptime": "5.23%",
+    "uptimeDay": "5.23%",
+    "uptimeWeek": "5.23%",
+    "uptimeMonth": "5.23%",
+    "uptimeYear": "5.23%",
     "time": 1430,
     "timeDay": 1430,
     "timeWeek": 1430,
     "timeMonth": 1430,
     "timeYear": 1430,
     "dailyMinutesDown": {
-      "2025-10-23": 431
+      "2025-10-23": 428
     }
   }
 ]
