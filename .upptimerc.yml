@@ -36,7 +36,7 @@ status-website:
   logoUrl: https://www.stryv.nl/stryv-s.png
   name: Upptime stryv.nl | STRYV
   introTitle: Uptime monitor en status pagina
-  introMessage: Overzicht van uptime en vermelding van incidenten. Heb je vragen over deze statuspagina of ondervind je problemen met één van onze diensten?  Ons team helpt je graag verder.  📧 **E-mail:** [happier@stryv.nl](mailto:happier@stryv.nl)  🟩 **WhatsApp:** [0495 – 234 444](https://wa.me/31495234444)  📞 **Telefoon:** 0495 – 234 444  
+  introMessage: Overzicht van uptime en vermelding van incidenten. Heb je vragen over deze statuspagina of ondervind je problemen met één van onze diensten?<br/>Ons team helpt je graag verder.<br/><br/>📧 **E-mail:** [happier@stryv.nl](mailto:happier@stryv.nl)<br/>🟩 **WhatsApp:** [0495 – 234 444](https://wa.me/31495234444)<br/>📞 **Telefoon:** 0495 – 234 444<br/>
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
