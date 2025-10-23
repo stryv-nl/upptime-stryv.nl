@@ -132,5 +132,10 @@ i18n:
   completeOutage: "🔴 Volledige storing"
   partialOutage: "🟠 Gedeeltelijke storing"
 
+notifications:
+  slack:
+    webhookUrl: ${{ secrets.SLACK_WEBHOOK_URL }}
+    channel: "#upptime-monitor"
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
