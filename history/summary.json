@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 235,
-    "timeWeek": 235,
-    "timeMonth": 235,
-    "timeYear": 235,
+    "time": 232,
+    "timeDay": 232,
+    "timeWeek": 232,
+    "timeMonth": 232,
+    "timeYear": 232,
     "dailyMinutesDown": {}
   },
   {
@@ -72,23 +72,23 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "SMTTP Server",
-    "url": "smttp.fa.xcy",
+    "name": "SSMTTP Server",
+    "url": "ssmttp.fa.xcy",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "smttp-server",
-    "status": "down",
-    "uptime": "13.94%",
-    "uptimeDay": "13.94%",
-    "uptimeWeek": "13.94%",
-    "uptimeMonth": "13.94%",
-    "uptimeYear": "13.94%",
-    "time": 85,
-    "timeDay": 85,
-    "timeWeek": 85,
-    "timeMonth": 85,
-    "timeYear": 85,
+    "slug": "ssmttp-server",
+    "status": "up",
+    "uptime": "5.71%",
+    "uptimeDay": "5.71%",
+    "uptimeWeek": "5.71%",
+    "uptimeMonth": "5.71%",
+    "uptimeYear": "5.71%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-23": 12
+      "2025-10-23": 0
     }
   }
 ]
