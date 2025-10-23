@@ -2,7 +2,7 @@
 
 <br/>
 
-Deze repository houdt automatisch de *online status en prestaties van de websites, servers en diensten onder www.stryv.nl bij.  
+Deze repository houdt automatisch de online status en prestaties van de websites, servers en diensten onder www.stryv.nl bij.  
 Met behulp van [Upptime](https://upptime.js.org) worden alle uptime-metingen, responstijden en incidentmeldingen volledig open source vastgelegd en weergegeven op onze publieke statuspagina.
 
 De metingen worden elke paar minuten uitgevoerd via GitHub Actions en de resultaten zijn publiek inzichtelijk — transparant, betrouwbaar en privacy-vriendelijk.
