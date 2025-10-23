@@ -31,7 +31,7 @@ sites:
     check: tcp-ping
     location: Eindhoven
   - name: SSMTTP Server # Fastmail
-    url: ssmttp.fa.xcy
+    url: ssmmmttp.fa.xcy
 
 
 
@@ -132,10 +132,6 @@ i18n:
   completeOutage: "🔴 Volledige storing"
   partialOutage: "🟠 Gedeeltelijke storing"
 
-notifications:
-  slack:
-    webhookUrl: ${{ secrets.NOTIFICATION_SLACK_WEBHOOK_URL }}
-    channel: "#upptime-monitor"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
