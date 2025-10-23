@@ -1,4 +1,4 @@
-# Welcome to StackEdit!
+# [![STRYV](https://www.stryv.nl/github-logo-text.png)](https://www.stryv.nl)
 
 Deze repository houdt automatisch de **online status en prestaties van de websites, servers en diensten onder www.stryv.nl** bij.  
 Met behulp van [Upptime](https://upptime.js.org) worden alle uptime-metingen, responstijden en incidentmeldingen volledig **open source** vastgelegd en weergegeven op onze publieke statuspagina.
