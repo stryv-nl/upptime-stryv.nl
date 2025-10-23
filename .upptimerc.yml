@@ -12,17 +12,20 @@ sites:
     location: Eindhoven
   - name: LiteSpeed Server
     url: www.stryv.nl/health-litespeed.php
+    icon: https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.litespeedtech.com/&size=32
     __dangerous__body_down_if_text_missing: 'OK'
     type: globalping
     location: Eindhoven
   - name: IMAP Server # Fastmail
     url: imap.fastmail.com
+    icon: https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.fastmail.com/&size=32
     port: 993
     type: globalping
     check: tcp-ping
     location: Eindhoven
   - name: SMTP Server # Fastmail
     url: smtp.fastmail.com
+    icon: https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.fastmail.com/&size=32
     port: 465
     type: globalping
     check: tcp-ping
