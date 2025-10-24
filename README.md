@@ -9,7 +9,7 @@ De metingen worden elke paar minuten uitgevoerd via GitHub Actions en de resulta
 
 <br/>
 
-## [📈 Live Status](https://stryv-nl.github.io/upptime-stryv.nl): <!--live status--> **🟢 Geen incidenten**
+## [📈 Live Status](https://stryv-nl.github.io/upptime-stryv): <!--live status--> **🟢 Geen incidenten**
 
 <br/>
 
