@@ -37,6 +37,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
+  themeUrl: https://github.com/stryv-nl/upptime-stryv/assets/stryv.css
   baseUrl: /upptime-stryv
   logoUrl: https://www.stryv.nl/stryv-s.png
   favicon: https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.stryv.nl&size=32
