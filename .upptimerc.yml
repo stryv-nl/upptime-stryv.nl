@@ -30,8 +30,6 @@ sites:
     type: globalping
     check: tcp-ping
     location: Eindhoven
-  - name: TEST Server
-    url: www.stryv.nl
 
 
 
