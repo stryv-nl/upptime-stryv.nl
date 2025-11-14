@@ -1,7 +1,7 @@
 url: www.stryv.nl/health-litespeed.php
-status: up
-code: 200
-responseTime: 191
-lastUpdated: 2025-11-13T23:31:46.369Z
+status: down
+code: 403
+responseTime: 0
+lastUpdated: 2025-11-14T13:56:37.113Z
 startTime: 2025-10-22T18:45:21.478Z
 generator: Upptime <https://github.com/upptime/upptime>
