@@ -4,19 +4,19 @@
     "url": "www.stryv.nl",
     "icon": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.stryv.nl&size=32",
     "slug": "stryv-nl",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 18,
     "timeDay": 11,
-    "timeWeek": 16,
+    "timeWeek": 15,
     "timeMonth": 16,
     "timeYear": 18,
     "dailyMinutesDown": {
-      "2025-12-25": 0
+      "2025-12-25": 12
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "www.stryv.nl/health-litespeed.php",
     "icon": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.litespeedtech.com/&size=32",
     "slug": "lite-speed-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 309,
-    "timeDay": 178,
-    "timeWeek": 182,
-    "timeMonth": 392,
-    "timeYear": 309,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 307,
+    "timeDay": 158,
+    "timeWeek": 177,
+    "timeMonth": 384,
+    "timeYear": 307,
     "dailyMinutesDown": {
-      "2025-12-25": 0
+      "2025-12-25": 12
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.fastmail.com/&size=32",
     "slug": "imap-server",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 85,
     "timeDay": 80,
     "timeWeek": 85,
     "timeMonth": 85,
     "timeYear": 85,
     "dailyMinutesDown": {
-      "2025-12-25": 0
+      "2025-12-25": 12
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "smtp.fastmail.com",
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.fastmail.com/&size=32",
     "slug": "smtp-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 85,
-    "timeDay": 84,
-    "timeWeek": 84,
+    "timeDay": 82,
+    "timeWeek": 83,
     "timeMonth": 84,
     "timeYear": 85,
     "dailyMinutesDown": {
-      "2025-12-25": 0
+      "2025-12-25": 12
     }
   }
 ]
